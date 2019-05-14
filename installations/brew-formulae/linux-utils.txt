@@ -1,0 +1,10 @@
+zsh
+wget
+python
+python3
+moreutils
+findutils
+ack
+pigz
+p7zip
+autojump

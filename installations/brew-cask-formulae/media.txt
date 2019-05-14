@@ -1,0 +1,4 @@
+spotify
+google-chrome
+firefox
+franz

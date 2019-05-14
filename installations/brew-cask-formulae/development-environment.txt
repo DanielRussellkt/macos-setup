@@ -1,0 +1,8 @@
+docker
+minikube
+visual-studio-code
+open-in-code
+sublime-text
+hyper
+google-cloud-sdk
+postman

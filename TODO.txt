@@ -1,0 +1,22 @@
+ - gcloud init automation?
+ - Automate wallpapers?
+ - GIF Screensavers
+ - install.sh doesnt work
+ - rsrc from zip
+ - Overall install script that cds into directories
+ - Install older postman
+ - MacOS settings to change:
+
+ # Install all available System Updates - Likely to require restart
+ sudo softwareupdate -ia --verbose
+
+ # Save screenshots to the Pictures/Screenshots
+mkdir ${HOME}/Pictures/Screenshots
+defaults write com.apple.screencapture location -string "${HOME}/Pictures/Screenshots"
+
+# Save screenshots in PNG format (other options: BMP, GIF, JPG, PDF, TIFF)
+defaults write com.apple.screencapture type -string "png"
+
+Brew openvpn:
+brew install openvpn
+brew services start openvpn

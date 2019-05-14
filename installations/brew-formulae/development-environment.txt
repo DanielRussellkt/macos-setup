@@ -1,0 +1,6 @@
+node
+npm
+yarn
+kubernetes-cli
+kubectx
+hyperkit
