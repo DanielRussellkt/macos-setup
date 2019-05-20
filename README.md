@@ -5,7 +5,7 @@ Script Reference:
 
 install-brew.sh - Ensures brew is installed, and once it is, iterates through all text files in the installations folder installing the program declared. Text files work irrespective of name as long as they are new-line delimited.
 
-configuration-scripts/hyper-zsh-setup.sh - Sets up Hyper terminal emulator, and zsh, and configures it to my preferences.
+configuration-scripts/hyper-zsh-setup.sh - Sets up Hyper terminal emulator, and zsh, and configures it to my preferences. NOTE: Hyper 2.x.x works with this, but if brew installed 3.x.x then the theme/css/powerline fonts may look grim
 
 configuration-scripts/osx-config.sh - Changes macos settings to something more sensible, including UI, mouse, keyboard etc. Also installs UK ISO windows keyboard layout because the mac one is useless. This requires the contents of kb-layout.zip to be extracted
 
